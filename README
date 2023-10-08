@@ -1,0 +1,2 @@
+This project was about creating a parallel version of an enigma-breaking application.
+You should focused on two files: MPIEnigmaBreaker.cpp and MPIEnigmaBreaker.h
